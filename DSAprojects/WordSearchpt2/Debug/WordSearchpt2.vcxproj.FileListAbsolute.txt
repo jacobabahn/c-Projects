@@ -1,0 +1,2 @@
+C:\Users\marce\Documents\DSAprojects\WordSearchpt2\Debug\WordSearchpt2.exe
+C:\Users\marce\Documents\DSAprojects\WordSearchpt2\Debug\WordSearchpt2.pdb

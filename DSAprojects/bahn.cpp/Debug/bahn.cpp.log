@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (bahn.cpp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bahn.cpp
+C:\Users\marce\Documents\DSAprojects\bahn.cpp\bahn.cpp(19,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\marce\Documents\DSAprojects\bahn.cpp\bahn.cpp(44,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marce\Documents\DSAprojects\bahn.cpp\bahn.cpp(124,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\marce\Documents\DSAprojects\bahn.cpp\bahn.cpp(124,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\marce\Documents\DSAprojects\bahn.cpp\bahn.cpp(125,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\marce\Documents\DSAprojects\bahn.cpp\bahn.cpp(125,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\marce\Documents\DSAprojects\bahn.cpp\bahn.cpp(127,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\marce\Documents\DSAprojects\bahn.cpp\bahn.cpp(127,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\marce\Documents\DSAprojects\bahn.cpp\bahn.cpp(128,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\marce\Documents\DSAprojects\bahn.cpp\bahn.cpp(128,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  bahn.cpp.vcxproj -> C:\Users\marce\Documents\DSAprojects\bahn.cpp\Debug\mazeconstructor.cpp.exe

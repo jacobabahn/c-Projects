@@ -1,0 +1,8 @@
+﻿  lettermatrix.cpp
+  wordsearch.cpp
+C:\Users\marce\Documents\DSAprojects\WordSearchpt2\wordsearch.cpp(31,32): warning C4101: 'e': unreferenced local variable
+C:\Users\marce\Documents\DSAprojects\WordSearchpt2\wordsearch.cpp(45,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marce\Documents\DSAprojects\WordSearchpt2\wordsearch.cpp(49,31): warning C4018: '<': signed/unsigned mismatch
+  wspuzzle.cpp
+  Generating Code...
+  WordSearchpt2.vcxproj -> C:\Users\marce\Documents\DSAprojects\WordSearchpt2\Debug\WordSearchpt2.exe

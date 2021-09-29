@@ -1,0 +1,2 @@
+C:\Users\marce\Documents\DSAprojects\huffmancodingtree\Debug\huffmancodingtree.exe
+C:\Users\marce\Documents\DSAprojects\huffmancodingtree\Debug\huffmancodingtree.pdb
